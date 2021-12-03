@@ -1,2 +1,2 @@
 # reconocimiento
-tarea de desarrolo centrado
+tarea de desarrollo centrado al usuario
